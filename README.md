@@ -1,5 +1,3 @@
-# Conformation show
-
 # Overview
 
 "This is a personal project where I designed a 16-bit CPU with a set of 25 instructions introduced in M. Morris Mano's book, Computer System Architecture, using Verilog."
@@ -9,6 +7,8 @@
 "I created this project to deepen my understanding of computer architecture, digital logic circuits, and Verilog HDL."
 
 # More Detail
+
+"I wanted to try both behavioral and dataflow modeling in Verilog, so I applied behavioral modeling to large-scale modules like the system bus, while using dataflow modeling for smaller modules like register modules, where I derived Boolean functions from block diagrams, truth tables, and Karnaugh maps."
 
 **Class:** Dog vs Specialty Dog
 
