@@ -14,6 +14,9 @@
 
 "My objective was to design a low-power CPU capable of executing the given instruction set using the von Neumann architecture. To achieve this, I implemented partial power gating in the ALU circuit and the increment circuit within the registers. And I primarily focused on implementing the CPU. Furthermore, I designed it under the assumption that the main memory would use IP, so the RAM.v file in the code list is intended only for simulation purposes. And apart from that I designed all arithmetic logic circuits using a carry lookahead adder." 
 
+![다운로드](https://github.com/user-attachments/assets/98eb3705-3b6f-44d3-8ffe-53f340684e08)
+
+
 # Design method
 
 "I basically used a top-down design methodology, employing elements like the control unit, registers, multiplexers, and the ALU, while also incorporating a partial bottom-up approach by designing each component starting from the smallest elements. Additionally, while designing some registers, I created circuit diagrams on paper and translated them into dataflow modeling, which may make the code feel somewhat less user-friendly. I uploaded a image for reference."
