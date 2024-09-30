@@ -25,11 +25,12 @@
 
 "I designed it using Vivado."
 
-# Verilog Code & RTL-level diagram of the circuit and the diagram of the synthesized circuit
+# In order, Verilog Code & RTL-level diagram of the circuit & the diagram of the synthesized circuit
 
 ![image](https://github.com/user-attachments/assets/81c7306e-1d24-44b5-8854-df2be174ad28)
 ![image](https://github.com/user-attachments/assets/a947bd46-24ea-43c7-8db7-5a7becb065ad)
-![image](https://github.com/user-attachments/assets/86194671-826a-40e5-9f2d-41a18ee4caea)
+![sSYNchematic-1](https://github.com/user-attachments/assets/e1714634-a28e-45f2-8952-4c039e01f08b)
+
 
 
 
