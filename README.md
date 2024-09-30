@@ -25,7 +25,7 @@
 
 # IDE
 
-"I designed it using Vivado."
+"I designed and tested it using only Vivado."
 
 # In order, Verilog Code & RTL-level diagram of the circuit & the diagram of the synthesized circuit
 
