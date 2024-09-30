@@ -14,7 +14,7 @@
 
 # Design objective
 
-"My objective was to design a low-power CPU capable of executing the given instruction set using the von Neumann architecture. To achieve this, I implemented partial power gating in the ALU circuit and the increment circuit within the registers. And apart from that I designed all arithmetic logic circuits using a carry lookahead adder. Additionally, I primarily focused on implementing the CPU. Furthermore, I designed it under the assumption that the main memory would use IP, so the RAM.v file in the code list is intended only for simulation purposes."
+"My objective was to design a low-power CPU capable of executing the given instruction set using the von Neumann architecture. To achieve this, I implemented partial power gating in the ALU circuit and the increment circuit within the registers. And I primarily focused on implementing the CPU. Furthermore, I designed it under the assumption that the main memory would use IP, so the RAM.v file in the code list is intended only for simulation purposes. And apart from that I designed all arithmetic logic circuits using a carry lookahead adder." 
 
 # Design method
 
