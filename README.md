@@ -24,5 +24,13 @@
 "I designed it using Vivado."
 
 ![image](https://github.com/user-attachments/assets/9e215836-5c9f-437c-8018-1a8512cbc998)
+![image](https://github.com/user-attachments/assets/67ecfc8e-5302-42a7-82e1-e455645d9181)
+![image](https://github.com/user-attachments/assets/3f6b2aa5-0f60-4047-a21e-856ff3d798b5)
+![image](https://github.com/user-attachments/assets/cb1f698b-ab95-40f0-9f07-9c976d7c2eb6)
+![image](https://github.com/user-attachments/assets/71e3676e-26ee-492f-8cad-0f7f07f0879e)
+![image](https://github.com/user-attachments/assets/caf9af9f-6c03-4613-bca5-4a1aee9c6a33)
+![image](https://github.com/user-attachments/assets/e3cc9eda-d900-49b7-b3af-7768ae08a0bd)
+![image](https://github.com/user-attachments/assets/ba5b841c-bdab-4af5-a232-2ec2e6d867e7)
+
 
 
