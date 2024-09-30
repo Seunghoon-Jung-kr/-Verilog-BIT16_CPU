@@ -1,4 +1,4 @@
-# Overview
+![image](https://github.com/user-attachments/assets/408f25f4-07fa-4821-9d2c-3318691c1ae8)# Overview
 
 "This is a personal project where I designed a 16-bit CPU with a set of 25 instructions introduced in M. Morris Mano's book, Computer System Architecture, using Verilog."
 
@@ -26,3 +26,6 @@
 # IDE
 
 "I designed it using Vivado."
+
+![image](https://github.com/user-attachments/assets/81c7306e-1d24-44b5-8854-df2be174ad28)
+
