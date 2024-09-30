@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/408f25f4-07fa-4821-9d2c-3318691c1ae8)# Overview
+# Overview
 
 "This is a personal project where I designed a 16-bit CPU with a set of 25 instructions introduced in M. Morris Mano's book, Computer System Architecture, using Verilog."
 
