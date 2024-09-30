@@ -12,11 +12,9 @@
 
 <img src="https://github.com/user-attachments/assets/d5d7f946-ae57-4e06-8882-0bf28e0757af" alt="CamScanner 2024-09-30 16 36 (1)" width="350"/>
 
-
-
 # Design objective
 
-"I primarily focused on making the designed CPU work as intended. For this reason, although there were several imperfections, parts that needed improvement, or features I wanted to add, I chose to prioritize achieving the set objective."
+"My objective was to design a low-power CPU capable of executing the given instruction set using the von Neumann architecture. To achieve this, I implemented partial power gating in the ALU circuit and the increment circuit within the registers, while primarily focusing on the implementation of the CPU's functionality. Additionally, I designed it under the assumption that the main memory would use another IP, and the RAM.v file in the code list is just for simulation purposes."
 
 # Design method
 
@@ -27,5 +25,11 @@
 
 "I designed it using Vivado."
 
+# Verilog Code & RTL-level diagram of the circuit and the diagram of the synthesized circuit
+
 ![image](https://github.com/user-attachments/assets/81c7306e-1d24-44b5-8854-df2be174ad28)
+![image](https://github.com/user-attachments/assets/a947bd46-24ea-43c7-8db7-5a7becb065ad)
+![image](https://github.com/user-attachments/assets/86194671-826a-40e5-9f2d-41a18ee4caea)
+
+
 
