@@ -9,7 +9,9 @@
 # More Detail
 
 "I wanted to try both behavioral and dataflow modeling in Verilog, so I applied behavioral modeling to large-scale modules like the system bus, while using dataflow modeling for smaller modules like register modules, where I derived Boolean functions from block diagrams, truth tables, and Karnaugh maps."
-![Uploading CamScanner 2024-09-30 16.36 (1).jpg…]()
+
+![CamScanner 2024-09-30 16 36 (1)](https://github.com/user-attachments/assets/d5d7f946-ae57-4e06-8882-0bf28e0757af)
+
 
 
 # Design objective
