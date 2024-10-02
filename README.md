@@ -19,7 +19,7 @@
 
 # Design method
 
-"I basically used a top-down design method, using submodules like the control unit, registers, multiplexers, and the ALU, while also including a partial bottom-up approach by designing each component starting from the smallest elements. Additionally, while designing some registers, I created circuit diagrams on paper and converted them into dataflow modeling, which may make the code feel somewhat less user-friendly. I uploaded an image for reference."
+"I basically used a top-down design method, using submodules like the control unit, registers, multiplexers, and the ALU, while also including a partial bottom-up approach by designing each component starting from the smallest elements. Additionally, while designing some registers, I created circuit diagrams on paper and converted them into dataflow modeling, which may make the code feel somewhat less user-friendly. So, I uploaded an image for reference."
 
 <img src="https://github.com/user-attachments/assets/d5d7f946-ae57-4e06-8882-0bf28e0757af" alt="CamScanner 2024-09-30 16 36 (1)" width="350"/>
 
